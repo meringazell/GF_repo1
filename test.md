@@ -3,3 +3,7 @@
 ## branches
 
 ## remotes
+
+## stashing
+
+## merging
