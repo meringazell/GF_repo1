@@ -1,1 +1,1 @@
-Hello world from local desktop using gh client
+Hello world from local desktop from a dev branch
