@@ -1,1 +1,1 @@
-Hello world from local desktop using SSH
+Hello world from local desktop using gh client
