@@ -1,1 +1,1 @@
-Hello world from local desktop
+Hello world from local desktop using SSH
